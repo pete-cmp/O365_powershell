@@ -1,0 +1,15 @@
+# PowerShell local and sensitive artifacts
+*.ps1xml
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*.key
+*.cer
+*.csv
+*.xlsx
+.vscode/
